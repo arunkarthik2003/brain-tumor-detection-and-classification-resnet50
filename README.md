@@ -73,6 +73,7 @@ Model shows some confusion between tumor classes, especially Glioma and Meningio
 
 ## Project Structure
 
+```
 brain-tumor-detection-and-classification-resnet50
 ├── brain_tumor_resnet50_code.ipynb
 ├── results/
@@ -80,7 +81,7 @@ brain-tumor-detection-and-classification-resnet50
 │   ├── roc_curve.png
 │   ├── accuracy_loss.png
 └── README.md
-
+```
 ---
 
 ## Note
